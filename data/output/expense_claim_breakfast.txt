@@ -1,0 +1,4 @@
+Expense Claim Details:
+Email: [email]
+Description: Breakfast costing $20
+Amount: $20
